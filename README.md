@@ -1,33 +1,11 @@
- 
+ # Klassieke Talen & Game Design - Nicolai Klimii Iter Subterraneum
 
+Salvete! Welkom in het jaar 1664 in het Noorse Bergen. Na jaren studeren in het Deense Kopenhagen, komt Nicolai terug thuis. Alles is nog zoals hij het zich herinnerde, behalve één iets … Dorpsgenoten spreken over een grot hoog boven het dorp in de bergen. Niet zomaar een grot, maar een die af en toe warme lucht naar buiten blaast. Precies alsof de grot kan ademen. Het is een groot mysterie in het dorp. Vol van nieuwsgierigheid maakt Nicolai de klim naar boven. Met touw en speer in de hand betreedt hij de mysterieuze grot...Gebruik in deze game jouw kennis van de Latijnse grammatica om Nicolai door zijn avontuur te loodsen!
 
-> Open this page at [https://robbew.github.io/nicolai_klimii_iter_subterraneum/](https://robbew.github.io/nicolai_klimii_iter_subterraneum/)
+Deze game maakt deel uit van een lessenreeks in samenwerking met mijn studenten Educatieve Master van de UGent. Meer info? Klik hier! 
 
-## Use as Extension
+De game kan je spelen via volgende link: 
+https://robbew.github.io/nicolai_klimii_iter_subterraneum/
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/robbew/nicolai_klimii_iter_subterraneum** and import
-
-## Edit this project ![Build status badge](https://github.com/robbew/nicolai_klimii_iter_subterraneum/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/robbew/nicolai_klimii_iter_subterraneum** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/robbew/nicolai_klimii_iter_subterraneum/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Meer informatie over dit project vind je via volgende link: 
+https://www.robbewulgaert.be/onderwijs/latijn-en-game-design
